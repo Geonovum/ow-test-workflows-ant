@@ -5,7 +5,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "BD",
   license: "cc-by-nd",
-  publishDate: "2022-08-20",
+  publishDate: "2022-09-01",
   authors: [
     {
       name: "Monique van Scherpenzeel",
@@ -25,5 +25,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/ow-test-workflows-ant/",
   issueBase: "https://github.com/Geonovum/ow-test-workflows-ant/issues/",
   edDraftURI: "https://Geonovum.github.io/ow-test-workflows-ant/",
-  generatedSubtitle: "Werkversie 20 augustus 2022"
+  generatedSubtitle: "Werkversie 1 september 2022"
 }
